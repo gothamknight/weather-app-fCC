@@ -1,0 +1,75 @@
+body {
+  background-image: url("https://s3.amazonaws.com/nimbublips/1359845371.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+  main {
+    flex: 1 0 auto;
+  }
+#loading{
+  font-size: 15px;
+  color: black;
+  padding-top: 50px;
+}
+.title {
+  font-size: 4.5em;
+  padding: 60px 0px 30px 0px;
+}
+#location {
+  padding-bottom: 50px;
+  font-size: 2.7em;
+}
+#description, #humidity {
+  font-size: 25px;
+  line-height: 1;
+}
+
+#temperature {
+  font-size: 60px;
+  display: inline-block;
+  padding-top: 30px;
+}
+button {
+  cursor: pointer;
+  cursor: hand;
+  background-color: Transparent;
+  font-family: Arial, sans serif;
+  font-size: 60px;
+  color: white;
+  border: 0px;
+  padding: 0px;
+  display: inline-block;
+  line-height: 1;
+}
+button:focus {
+  outline: 0;
+}
+button:hover {
+  color: #264d73;
+  transition-duration: 0.2s;
+}
+.footer {
+  padding: 50px 0px 30px 0px;
+}
+.font-size15{
+font-size: 15px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #264d73;
+}
+
+
+      
