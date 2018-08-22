@@ -1,3 +1,3 @@
 # weather-app-fCC
 
-https://user-ap.github.io/weather-app-fCC/
+https://iso1048.github.io/weather-app-fCC/
